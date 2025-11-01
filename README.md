@@ -1,52 +1,72 @@
-<img src="https://raw.githubusercontent.com/arabaz/arabaz/main/header.png" alt="Arbaz GitHub README header image">
-
-<p>
-<a href="https://twitter.com/arabaz"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/arabaz"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://www.instagram.com/arabaz/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-<a href="https://github.com/arabaz"><img src="https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
+<p align="center">
+  <img src="https://github.com/irbadabdeldjelil.png" alt="irbade Abdeldjelil" width="140" style="border-radius:70px">
 </p>
 
-<h2>مرحبا، أنا عرباض عبد الجليل</h2>
-<p>مبرمج Full-Stack شغوف بـ Node.js وPython، مهتم بالأمن السيبراني، تطبيقات SPA، وقواعد البيانات العملية.</p>
+<h1 align="center">Hi there 👋, I'm irbade Abdeldjelil</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="120"/>
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://github.com/<your-github-username>"><img src="https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
+</p>
 
 ---
 
-## 🛠️ مشاريع مختارة
-
-### 1. إدارة مهام المستخدمين
-- تطبيق Node.js كامل لإدارة المهام (CRUD) باستخدام Express.js وMongoDB.
-- تجربة عملية لمفهوم SPAs وAPI REST.
-
-### 2. تجربة XSS آمنة
-- مشروع لتوضيح كيف يمكن اختبار الثغرات البرمجية بأمان.
-- يوضح فهم أمان التطبيقات وJWT.
-
-### 3. مكتبات Python للتحقق من البيانات
-- أدوات للتحقق من صحة البيانات ومعالجة السيناريوهات العملية.
-- يسهل التعامل مع البيانات النصية والرقمية.
+## 👨‍💻 About Me
+I’m a **backend developer** passionate about **Node.js** and building **clean, secure, and scalable APIs**.  
+I enjoy exploring how things work behind the scenes — from authentication flows to database interactions — and constantly improving my understanding of **web security**, **performance**, and **architecture**.
 
 ---
 
-## ⚡ التقنيات
-- **لغات:** JavaScript (Node.js), Python, HTML, CSS  
-- **أطر العمل:** Express.js, React (أساسيات), Micro.js, Koa.js  
-- **قواعد البيانات:** MongoDB, PostgreSQL, SQLite  
-- **مفاهيم:** JWT, sessions, SPA, REST APIs, XSS, Security Basics  
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ---
 
-## 🚀 التثبيت والاستخدام (مثال Node.js)
-```bash
-# نسخ المستودع
-git clone https://github.com/arabaz/اسم_المشروع.git
-cd اسم_المشروع
+## 🚀 Featured Projects
 
-# تثبيت التبعيات
-npm install
+### 🧩 Task Manager API
+> A simple yet complete RESTful API built with Node.js, Express, and MySQL using Sequelize ORM.
 
-# تشغيل التطبيق في بيئة التطوير
-npm run dev
+### 🔐 Security Playground
+> Safe environment to experiment with XSS vulnerabilities, JWT authentication, and backend validation.
 
-# تشغيل الاختبارات
-npm test
+### ⚙️ Utility Scripts
+> Small, reusable Node.js utilities — validation helpers, logging tools, and API request wrappers.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irbadabdeldjelil&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+---
+
+## 📫 Connect With Me
+- **GitHub:** [github.com/<your-github-username>](https://github.com/irbadabdeldjelil)
+- **LinkedIn:**  [linkedin.com/in/<your-linkedin>](https://linkedin.com/in/<your-linkedin>)  
+- **Email:** `irbadabdeldjelil@gmail.com`
+
+---
+
+## ☕ Support My Work
+<a href="https://www.buymeacoffee.com/<your-coffee>" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="170">
+</a>
+
+---
+
+> 💡 *“Writing secure, maintainable code is not just a skill — it’s a mindset.”*
