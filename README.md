@@ -11,13 +11,13 @@
 <p align="center">
   <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://github.com/<your-github-username>"><img src="https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
+  <a href="https://github.com/irbadabdeldjelil"><img src="https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I’m a **backend developer** passionate about **Node.js** and building **clean, secure, and scalable APIs**.  
+I'm a **backend developer** passionate about **Node.js** and building **clean, secure, and scalable APIs**.  
 I enjoy exploring how things work behind the scenes — from authentication flows to database interactions — and constantly improving my understanding of **web security**, **performance**, and **architecture**.
 
 ---
@@ -34,19 +34,6 @@ I enjoy exploring how things work behind the scenes — from authentication flow
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧩 Task Manager API
-> A simple yet complete RESTful API built with Node.js, Express, and MySQL using Sequelize ORM.
-
-### 🔐 Security Playground
-> Safe environment to experiment with XSS vulnerabilities, JWT authentication, and backend validation.
-
-### ⚙️ Utility Scripts
-> Small, reusable Node.js utilities — validation helpers, logging tools, and API request wrappers.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -56,17 +43,9 @@ I enjoy exploring how things work behind the scenes — from authentication flow
 ---
 
 ## 📫 Connect With Me
-- **GitHub:** [github.com/<your-github-username>](https://github.com/irbadabdeldjelil)
-- **LinkedIn:**  [linkedin.com/in/<your-linkedin>](https://linkedin.com/in/<your-linkedin>)  
+- **GitHub:** [github.com/irbadabdeldjelil](https://github.com/irbadabdeldjelil)
 - **Email:** `irbadabdeldjelil@gmail.com`
 
 ---
 
-## ☕ Support My Work
-<a href="https://www.buymeacoffee.com/<your-coffee>" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="170">
-</a>
-
----
-
-> 💡 *“Writing secure, maintainable code is not just a skill — it’s a mindset.”*
+> 💡 *"Writing secure, maintainable code is not just a skill — it's a mindset."*
